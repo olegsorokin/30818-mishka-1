@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Олег Сорокин](https://up.htmlacademy.ru/adaptive/8/user/30818).
-* Наставник: `Неизвестно`.
+* Наставник: `keksobot`.
 
 ---
 
